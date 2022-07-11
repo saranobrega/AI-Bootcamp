@@ -5,3 +5,10 @@ Studies estimate nearly all reefs will be at risk by 2050 unless action is taken
 
 During 2 months, participants collaborated with a diverse team of over 30 international data specialists and domain experts in subteams, all tackling this problem from different angles.
 
+Topics:
+- Introduction to AI
+- Developer skills
+- Exploratory Data Analysis
+- Data Engineering
+- AI pitfalls and biases
+- Transfer learning & AutoML
