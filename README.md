@@ -12,3 +12,6 @@ Topics:
 - Data Engineering
 - AI pitfalls and biases
 - Transfer learning & AutoML
+
+
+The folder "Bootcamp_Learning" contains all the learning and exercises performed during the Bootcamp. 
