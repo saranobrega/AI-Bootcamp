@@ -1,5 +1,5 @@
 # AI_Bootcamp_Coral_Reef
-AI for Coral Reef -  making a difference in the conservation of our underwater ecosystems.
+Artificial Intelligence for Coral Reef -  Making a difference in the conservation of our underwater ecosystems.
 
 Studies estimate nearly all reefs will be at risk by 2050 unless action is taken now to reduce the threats.
 
