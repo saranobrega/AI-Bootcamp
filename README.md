@@ -1,4 +1,4 @@
-# AI_Bootcamp_Coral_Reef
+# Artificial Intelligence Bootcamp
 Artificial Intelligence for Coral Reef -  Learning through real-world application.
 
 During 2 months, participants collaborated with a diverse team of over 30 international data specialists and domain experts in subteams, all tackling this problem from different angles.
